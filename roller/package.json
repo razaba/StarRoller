@@ -1,0 +1,15 @@
+{
+  "name": "roller",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "dependencies": {
+	"textract": "^2.4.0",
+	"elasticsearch": "^15.2.0",
+	"typed-promisify": "^0.4.0",
+	"@types/geojson": "^7946.0.4"
+  },
+  "devDependencies": {
+	"tslint": "5.12.0",
+	"@types/elasticsearch": "^5.0.29"
+  }
+}

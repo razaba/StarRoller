@@ -1,0 +1,1 @@
+export const NOT_EXISTS_ERROR = new Error("not exists");
